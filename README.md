@@ -17,9 +17,6 @@ The animation consists of a train moving horizontally across the screen. After e
 ### Night Mode
 ![Train Night](assets/train_night.jpg)
 
-## Storyboard
-![Storyboard](assets/storyboard.jpg)
-
 ## Teaser
 ![Train GIF](assets/train-gif.gif)
 
@@ -32,3 +29,8 @@ The animation consists of a train moving horizontally across the screen. After e
 - `experiment.js`: JavaScript file where the experiment class is defined, containing candidate details and main function calls.
 - `steppers.js`: JavaScript file defining the `Stepper` class responsible for animating the train and managing day/night mode transitions.
 - `clock.js`: JavaScript file for handling the clock animation (if needed).
+
+
+
+## Storyboard
+![Storyboard](assets/storyboard.jpg)
