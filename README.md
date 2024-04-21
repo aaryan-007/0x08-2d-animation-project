@@ -9,6 +9,20 @@ This project aims to create an interactive/animated graphic sequence using HTML,
 ## Description
 The animation consists of a train moving horizontally across the screen. After each pass of the train, there's a transition between day and night modes, symbolizing the passage of time.
 
+## Screenshots
+
+### Day Mode
+![Train Day](assets/train_day.jpg)
+
+### Night Mode
+![Train Night](assets/train_night.jpg)
+
+## Storyboard
+![Storyboard](assets/storyboard.jpg)
+
+## Teaser
+![Train GIF](assets/train-gif.gif)
+
 ## Files Included
 - `index.html`: HTML file containing the structure of the webpage.
 - `style.css`: CSS file for styling the elements of the webpage.
