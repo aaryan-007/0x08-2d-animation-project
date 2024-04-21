@@ -3,7 +3,7 @@
 This project aims to create an interactive/animated graphic sequence using HTML, CSS, and JavaScript. The animation involves a train moving across the screen, accompanied by a transition between day and night modes.
 
 ## Candidate Details
-**Roll Number:** [102103449, 102103]  
+**Roll Number:** [102103449, 102103436]  
 **Name:** [Aaryan Duggal, Jaideep singh]
 
 ## Description
