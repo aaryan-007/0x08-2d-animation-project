@@ -12,10 +12,10 @@ The animation consists of a train moving horizontally across the screen. After e
 ## Screenshots
 
 ### Day Mode
-![Train Day](assets/train day.jpg)
+![Train Day](assets/train_day.jpg)
 
 ### Night Mode
-![Train Night](assets/train night.jpg)
+![Train Night](assets/train_night.jpg)
 
 ## Storyboard
 ![Storyboard](assets/storyboard.jpg)
