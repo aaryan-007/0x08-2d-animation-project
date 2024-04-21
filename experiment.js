@@ -2,6 +2,7 @@ import Domel from './domel.js';
 
 class Experiment {
   // Candidate Details
+  static teamName = 'animation engineers';
   static rollNo = '102103449,102103436'
   static name = 'Aaryan Duggal, Jaideep Singh'
 
