@@ -1,6 +1,6 @@
 # Interactive Animated Graphic Sequence
 
-This project aims to create an interactive/animated graphic sequence using HTML, CSS, and JavaScript. The animation involves a train moving across the screen, accompanied by a transition between day and night modes.
+This project aims to create an interactive/animated graphic sequence using HTML, CSS, and JavaScript. The animation involves a train moving across the screen, accompanied by a transition between day and night modes(press 'n' on keyboard to switch modes).
 
 website link : https://aaryan-007.github.io/0x08-2d-animation-project/
 
