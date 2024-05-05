@@ -5,17 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Impressive Train Animation</title>
 <style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
     canvas {
         border: 1px solid rgb(0, 0, 0);
+    }
+    .info {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        font-family: Arial, sans-serif;
     }
 </style>
 </head>
 <body>
 <canvas id="trainCanvas" width="800" height="400"></canvas>
+<div class="info">
+    <p>Team Name: Animation Engineers</p>
+    <p>Roll No: 102103449, 102103436</p>
+    <p>Names: Aaryan Duggal, Jaideep Singh</p>
+</div>
 <script src="background.js"></script>
 <script src="experiment.js"></script>
-
 </body>
 </html>
-
-
