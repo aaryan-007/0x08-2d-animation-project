@@ -14,13 +14,13 @@ The animation consists of a train moving horizontally across the screen. After e
 ## Screenshots
 
 ### Day Mode
-![Train Day](assets/train_day.jpg)
+![Train Day](assets/d-train.jpg)
 
 ### Night Mode
-![Train Night](assets/train_night.jpg)
+![Train Night](assets/n-train.jpg)
 
 ## Teaser
-![Train GIF](assets/train-gif.gif)
+![Train GIF](assets/train-g.gif)
 
 ## Files Included
 - `index.html`: HTML file containing the structure of the webpage.
